@@ -1,1 +1,1 @@
-# Machine-Deep-NLP
+# Deep-Learning-Diabetes-Predict
